@@ -14,6 +14,7 @@ Analyse flight arrival delays
 Perform exploratory data analysis
 Generate meaningful insights from the dataset
 Visualise data using charts and graphs
+
 🛠️ Technologies Used
 Python
 Pandas – Data manipulation and analysis
@@ -21,10 +22,10 @@ NumPy – Numerical operations
 Matplotlib – Data visualisation
 Seaborn – Statistical data visualisation
 Jupyter Notebook – Development environment
+
 📊 Analysis Performed
 
 The project includes:
-
 Loading the flight passenger dataset
 Understanding the structure of the dataset
 Checking rows, columns, and data types
@@ -35,12 +36,14 @@ Calculating departure delay in minutes
 Calculating arrival delay in minutes
 Performing exploratory data analysis
 Creating visualisations to understand flight patterns and delays
+
 📁 Project Structure
 Flight-Passengers-Data-Analysis/
 │
 ├── Flight_Passengers.ipynb
 ├── Flight_Passengers.csv
 └── README.md
+
 🚀 How to Run the Project
 1. Clone the repository
 git clone https://github.com/your-username/Flight-Passengers-Data-Analysis.git
@@ -63,6 +66,7 @@ Data Transformation
 Flight Delay Analysis
 Data Visualisation
 Python Programming
+
 👨‍💻 Author
 
 Pugalenthi N
